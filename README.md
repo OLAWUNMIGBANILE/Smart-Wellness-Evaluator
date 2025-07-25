@@ -1,3 +1,6 @@
+<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/8a791f7c-a905-4baa-bf00-0340f6023688" />
+
+
 # Smart-Wellness-Evaluator
 An AI-powered tool to assess personal health across 8 wellness pillars.
 
